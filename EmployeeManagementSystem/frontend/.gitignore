@@ -1,0 +1,7 @@
+# Angular / Node
+node_modules/
+dist/
+.angular/
+npm-debug.log*
+yarn-error.log
+*.log

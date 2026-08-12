@@ -1,0 +1,15 @@
+## .NET / ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+.vs/
+appsettings.Secrets.json
+
+## EF Core
+# Keep migrations folder; ignore local bundle only
+migrations_bundle
+
+## Logs
+*.log
+logs/
