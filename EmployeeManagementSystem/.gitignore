@@ -1,0 +1,14 @@
+# Root
+*.log
+.DS_Store
+.idea/
+.vscode/
+
+# Backend (built by .NET)
+backend/bin/
+backend/obj/
+
+# Frontend (built by npm)
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
